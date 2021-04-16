@@ -1,0 +1,16 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0px;
+}
+.input-box {
+  height: 25px;
+  border: 0.5px solid gray;
+  border-radius: 4px;
+  padding-left: 15px;
+  color: gray;
+  margin-top: 5px;
+}
+.m-10 {
+  margin: 10px 0px;
+}
